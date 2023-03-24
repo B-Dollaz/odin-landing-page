@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+}
+
+header,
+footer {
+    background-color: #1F2937;
+}
+
+.links,
+.herotext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button,
+.bottom {
+    background-color: #3882F6;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.herotitle {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    background-color: #E5E7EB;
+}
